@@ -8,7 +8,7 @@ I am a passionate **Computer Science student** with a focus on **web development
 
 - **Programming Languages**: C, C++, Java, JavaScript
 - **Web Development**: HTML, CSS, Bootstrap, JavaScript, ReactJS
-- **Back-End Development**: Node.js, Express.js, PHP, MySQL
+- **Back-End Development**: Node.js, Express.js, PHP, Laravel, MySQL
 - **Tools**: Git, GitHub, Vite
 - **Database**: MySQL
 - **Other**: Problem-solving ([Codeforces](https://codeforces.com/profile/Aminul_Imam), [CodeChef](https://www.codechef.com/users/aminul_imam))
